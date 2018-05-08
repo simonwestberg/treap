@@ -7,6 +7,8 @@ Treap data structure to store either strings or numbers (ints and floats).
 A treap (tree+heap) is a randomized binary search tree. It combines the sorted order of a binary search tree and the min heap property 
 of a heap. It attempts to keep the tree balanced with rotations according to random priority numbers (min heap).
 
+![Treap](/pic/Treap.png)
+
 ### Documentation
 
 The documentation for this project can be found [here](/Documentation.md)
