@@ -11,5 +11,9 @@ of a heap. It attempts to keep the tree balanced with rotations according to ran
 
 The documentation for this project can be found [here](/Documentation.md)
 
+* The API of this library is frozen
+* Version numbers adhere to [semantic versioning](http://semver.org/)
+
+
 
 
