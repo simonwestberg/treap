@@ -9,7 +9,7 @@ of a heap. It attempts to keep the tree balanced with rotations according to ran
 
 ### Documentation
 
-The documentation for this project can be found [here](docs/Documentation.md)
+The documentation for this project can be found [here](Projektuppgift-Grudat18/Documentation.md)
 
 
 
