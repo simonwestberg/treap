@@ -1,4 +1,4 @@
-# Treap
+# Treap Version 1.0.0
 
 ### An implementation of a treap data structure in Python 3
 
