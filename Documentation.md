@@ -4,7 +4,7 @@ Treap data structure to store either strings or numbers (ints and floats).
 
 A treap (tree+heap) is a randomized binary search tree. It combines the sorted order of a binary search tree and the min heap property of a heap. It attempts to keep the tree balanced with rotations according to random priority numbers (min heap).
 
-A binary search tree is a tree structure consisting of nodes. Each node m contains a value from a well-ordered set. Every node in the left sub-tree of m has a value thats less than the value of m, and every node in the right sub-tree has a value thats greater than the value of m. The min heap property of the treap says that a parent-node's priority number must be smaller than or equal to its children's priority numbers.
+A binary search tree is a binary tree structure consisting of nodes. Each node m contains a value from a well-ordered set. Every node in the left sub-tree of m has a value thats less than the value of m, and every node in the right sub-tree has a value thats greater than the value of m. The min heap property of the treap says that a parent-node's priority number must be smaller than or equal to its children's priority numbers.
 
 The average time complexity for most operations is O(log(n)) since an element is never more than about log2(n) steps away, where n is the number of elements.
 
