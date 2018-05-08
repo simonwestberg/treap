@@ -1,4 +1,4 @@
-# treap module
+# treap module 1.0.0
 
 Treap data structure to store either strings or numbers (ints and floats).
 
